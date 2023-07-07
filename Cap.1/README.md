@@ -57,4 +57,24 @@ Importância: Um sistema com interrupção prolongada pode causar inconveniênci
 
 7. Para responder as letras abaixo, por favor, consulte o livro-texto da disciplina:
 (a) Desenhe uma matriz similar ao Quadro 1.4 que mostre o relacionamento entre serviços de segurança e ataques.
+Para cada serviço da matriz, a sua relação se da por meio do que o ataque impacta no serviço de segurança
 
+| |**Vazamento de conteúdo de mensagens**|**Análise de tráfego**|**Disfarce**|**Repasse**|**Modificação de mensagens**|**Negação do serviço**|
+|-|-|-|-|-|-|-|
+|**Autenticação**|||x|||
+|**Controle de Acesso**||x|x|||
+|**Confiabilidade dos dados**|x||x||||
+|**Integridade de dados**||||x|x||
+|**Irretratabilidade**||||||x|
+
+(b) Desenhe uma matriz similar ao Quadro 1.4 que mostre o relacionamento entre mecanismos de segurança e ataques.
+| |**Vazamento de conteúdo de mensagens**|**Análise de tráfego**|**Disfarce**|**Repasse**|**Modificação de mensagens**|**Negação do serviço**|
+|-|-|-|-|-|-|-|
+|**Codificação**|x|x||||
+|**assinatura digital**|||x|||
+|**Controle de acesso**|x|x||||x|
+|**integridade de dados**|||||x||
+|**Troca de autenticação**|||x||||
+|**preenchimento de tráfego**||x|||||
+|**Controle de roteamento**||x|||||
+|**Notarização**|||x|x|||
