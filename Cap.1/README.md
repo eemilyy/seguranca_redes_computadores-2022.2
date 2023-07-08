@@ -1,5 +1,5 @@
 ### SEGURANÇA DE REDES DE COMPUTADORES | 2022.2
-Emily Souza de Almeida Santos
+Emily Souza
 
 1. O que é a arquitetura de segurança OSI?
 
