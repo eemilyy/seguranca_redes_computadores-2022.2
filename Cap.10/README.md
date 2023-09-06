@@ -1,10 +1,10 @@
 # Como preparar-se para uma festa de assinatura de chaves GPG
 
-O PGP (Pretty Good Privacy ou Privacidade Muito Boa) é um sistema de criptografia assimétrica e assinatura digital, desenvolvido em 1991 por Philip Zimmermann. No início, o PGP possuia restrições quanto ao uso. Assim sendo, o [Projeto GNU](http://www.gnu.org/) desenvolveu o GnuPG (GNU Privacy Guard), também conhecido como GPG, que é totalmente compatível com o PGP.
+Uma festa de assinatura de chaves GPG, também conhecida como "Key Signing Party" em inglês, é um evento organizado por membros da comunidade de segurança de informações, desenvolvedores de software ou entusiastas de criptografia para verificar e assinar as chaves públicas usadas no sistema de criptografia GPG (GNU Privacy Guard) ou PGP (Pretty Good Privacy). O objetivo principal de uma festa de assinatura de chaves é estabelecer uma rede de confiança entre os usuários, permitindo que eles confirmem a autenticidade das chaves públicas uns dos outros.
 
 ## Como criar uma chave GPG
 
-Primeiro, é preciso instalar a ferramenta [pgp4win](https://www.gpg4win.org/). Realize a instalação e crie seu usuário selecionando o seu nome e um email.
+Primeiro, é preciso instalar a ferramenta [gpg4win](https://www.gpg4win.org/). Realize a instalação e crie seu usuário selecionando o seu nome e um email.
 
 Ao criar o usuário, importe sua chave publica e em seguida insira a chave em um servidor de chaves, como por exemplo [pgp.mit.edu](http://pgp.mit.edu/)
 
@@ -16,7 +16,7 @@ Para revogar a chave, dentro da própria plataforma, deve-se revogar o certifica
 
 # Exercício
 
-Após a criação da chave PGP, deve-se submeter a chave em um servidor e em seguida compartilhar o link.
+Após a criação da chave GPG, deve-se submeter a chave em um servidor e em seguida compartilhar o link.
 
 **Link da chave revogada:** 
 
